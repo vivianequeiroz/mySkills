@@ -6,7 +6,7 @@
 An app to register all your skills. 
 <br>
 
-<h6 align="center"> App created for learning purposes </h6>
+<h6> App created for learning purposes </h6>
 
 
 <br>
