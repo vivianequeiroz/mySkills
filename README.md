@@ -11,7 +11,7 @@ An app to register all your skills.
 
 <br>
 <h2> 🎯 Project goal </h2>
-    <p>Build a simples app with React Native to explore and practice its main fundamentals concepts.</p>
+    <p>Build a simple app with React Native to explore and practice its main fundamentals concepts.</p>
 
 <br>
 <h2> ⚙️ Tecnologies </h2>
